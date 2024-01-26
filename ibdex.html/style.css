@@ -70,3 +70,28 @@ nav{
     background: 6pt;
 }
 
+.header-info{
+display: flex;
+justify-content: space-between;
+}
+
+.card-left{
+    width: 360px;
+}
+
+.card-left h2{
+ color: #fff;
+ font-size: 20px;
+ font-weight: bold;
+letter-spacing: 0.5px;
+margin-top: 15px;
+margin-bottom: 4px;
+}
+
+.card-left p{
+font-size: 13px;
+ color: #8C8C8C;
+font-weight: bold;
+letter-spacing: 1.5px;
+}
+
